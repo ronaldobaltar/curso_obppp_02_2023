@@ -1,0 +1,18 @@
+# Table of contents
+
+* [Apresentação](README.md)
+* [📖 I) R, RStudio, {tidyverse} e {esquisse}](i-r-rstudio-tidyverse-e-esquisse/README.md)
+  * [1.1) Funcionalidades do R e do RStudio](i-r-rstudio-tidyverse-e-esquisse/1.1-funcionalidades-do-r-e-do-rstudio.md)
+  * [1.2) Usando a Ajuda no RStudio](i-r-rstudio-tidyverse-e-esquisse/1.2-usando-a-ajuda-no-rstudio.md)
+  * [1.3) Atualizando o R, RStudio e os pacotes](i-r-rstudio-tidyverse-e-esquisse/1.3-atualizando-o-r-rstudio-e-os-pacotes.md)
+  * [1.4) Personalizando o RStudio](i-r-rstudio-tidyverse-e-esquisse/1.4-personalizando-o-rstudio.md)
+  * [1.5) {Tidyverse} e {Esquisse}](i-r-rstudio-tidyverse-e-esquisse/1.5-tidyverse-e-esquisse/README.md)
+    * [🤟 Tente fazer](i-r-rstudio-tidyverse-e-esquisse/1.5-tidyverse-e-esquisse/tente-fazer.md)
+* [📖 II) O que os indicadores indicam?](ii-o-que-os-indicadores-indicam/README.md)
+  * [2 .1) Indicadores são marcadores de mudança social](ii-o-que-os-indicadores-indicam/2-.1-indicadores-sao-marcadores-de-mudanca-social.md)
+  * [2.2) Baixando os dados com indicadores sociais](ii-o-que-os-indicadores-indicam/2.2-baixando-os-dados-com-indicadores-sociais.md)
+  * [2.3) Importando dados para um projeto no RStudio](ii-o-que-os-indicadores-indicam/2.3-importando-dados-para-um-projeto-no-rstudio.md)
+  * [2.4) Dados e metadados](ii-o-que-os-indicadores-indicam/2.4-dados-e-metadados.md)
+* [📖 III) Princípios da Análise Exploratória](iii-principios-da-analise-exploratoria/README.md)
+  * [3.1) Seis passos para a análise exploratória de dados](iii-principios-da-analise-exploratoria/3.1-seis-passos-para-a-analise-exploratoria-de-dados.md)
+  * [3 .2) A documentação: como são feitos os indicadores?](iii-principios-da-analise-exploratoria/3-.2-a-documentacao-como-sao-feitos-os-indicadores.md)
