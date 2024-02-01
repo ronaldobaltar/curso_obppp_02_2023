@@ -16,3 +16,6 @@
 * [📖 III) Princípios da Análise Exploratória](iii-principios-da-analise-exploratoria/README.md)
   * [3.1) Seis passos para a análise exploratória de dados](iii-principios-da-analise-exploratoria/3.1-seis-passos-para-a-analise-exploratoria-de-dados.md)
   * [3 .2) A documentação: como são feitos os indicadores?](iii-principios-da-analise-exploratoria/3-.2-a-documentacao-como-sao-feitos-os-indicadores.md)
+  * [3.3) manipulando os dados com dplyr](iii-principios-da-analise-exploratoria/3.3-manipulando-os-dados-com-dplyr.md)
+  * [3.4) Explorando a distribuição dos dados](iii-principios-da-analise-exploratoria/3.4-explorando-a-distribuicao-dos-dados.md)
+* [📖 IV) Para cada tipo de análise um tipo de gráfico](iv-para-cada-tipo-de-analise-um-tipo-de-grafico.md)
