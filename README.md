@@ -10,4 +10,6 @@ Esse é um curso Explorando Indicadores Sociais com o R e o RStudio, uma continu
 Prof. **Ronaldo Baltar** \
 Prof.ª **Cláudia Siqueira Baltar**
 
-Acompanhe novos conteúdos e dicas sobre R para análise de dados sociais com a nossa _News Letter_ "[Análise Quantitativa das Mudanças Sociais"](https://aqdams.substack.com/).
+<figure><img src=".gitbook/assets/banner_podcast_aqms.jpg" alt=""><figcaption></figcaption></figure>
+
+Acompanhe novos conteúdos e dicas sobre R para análise de dados sociais com a nossa _News Letter_ "[Análise Quantitativa das Mudanças Sociais"](https://aqms.substack.com/).
