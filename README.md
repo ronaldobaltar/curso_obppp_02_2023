@@ -13,3 +13,5 @@ Prof.ª **Cláudia Siqueira Baltar**
 <figure><img src=".gitbook/assets/banner_podcast_aqms.jpg" alt=""><figcaption></figcaption></figure>
 
 Acompanhe novos conteúdos e dicas sobre R para análise de dados sociais com a nossa _News Letter_ "[Análise Quantitativa das Mudanças Sociais"](https://aqms.substack.com/).
+
+{% embed url="https://youtu.be/8wuBCDOYXJQ" %}
